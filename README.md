@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Diexatharv
+- 👋 Hi, I’m Atharv
 - 👀 I’m interested in coding
 
 
